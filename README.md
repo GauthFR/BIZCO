@@ -23,3 +23,6 @@ It's purpose is strictly educational :wink:
 [1]:https://developer.apple.com/documentation/arkit/world_tracking/visualizing_and_interacting_with_a_reconstructed_scene
 [2]:iPadLIDARScanExport/ViewController.swift
 [3]:https://medium.com/zeitraumgruppe/what-arkit-3-5-and-the-new-ipad-pro-bring-to-the-table-d4bf25e5dd87
+
+## What i'm working on
+Find a way to export mesh with texture (from camera frames with a process of photogrametry) in .USDZ format
